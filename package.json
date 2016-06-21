@@ -1,0 +1,29 @@
+{
+  "name": "hapi-webpack-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint --format=node_modules/eslint-formatter-pretty .",
+    "test": "npm run lint"
+  },
+  "keywords": [
+    "hapi.js",
+    "webpack",
+    "webpack-hot-middleware",
+    "webpack-dev-middleware"
+  ],
+  "author": "Daniel Bayerlein",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^2.13.1",
+    "eslint-config-airbnb-base": "^3.0.1",
+    "eslint-formatter-pretty": "^0.2.2",
+    "eslint-plugin-import": "^1.9.2"
+  },
+  "peerDependencies": {
+    "webpack": "^2.0.0",
+    "webpack-dev-middleware": "^1.0.0",
+    "webpack-hot-middleware": "^2.0.0"
+  }
+}
