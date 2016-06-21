@@ -7,6 +7,10 @@
     "lint": "eslint --format=node_modules/eslint-formatter-pretty .",
     "test": "npm run lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbayerlein/hapi-webpack-middleware.git"
+  },
   "keywords": [
     "hapi.js",
     "webpack",
@@ -15,6 +19,10 @@
   ],
   "author": "Daniel Bayerlein",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielbayerlein/hapi-webpack-middleware/issues"
+  },
+  "homepage": "https://github.com/danielbayerlein/hapi-webpack-middleware#readme",
   "devDependencies": {
     "eslint": "^2.13.1",
     "eslint-config-airbnb-base": "^3.0.1",
@@ -27,3 +35,5 @@
     "webpack-hot-middleware": "^2.0.0"
   }
 }
+
+.git
