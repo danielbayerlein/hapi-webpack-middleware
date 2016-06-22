@@ -15,7 +15,10 @@
     "hapi.js",
     "webpack",
     "webpack-hot-middleware",
-    "webpack-dev-middleware"
+    "webpack-dev-middleware",
+    "Hot Module Replacement",
+    "HMR",
+    "LiveReload"
   ],
   "author": "Daniel Bayerlein",
   "license": "MIT",
