@@ -1,7 +1,7 @@
 {
   "name": "@danielbayerlein/hapi-webpack-middleware",
   "version": "1.0.0",
-  "description": "",
+  "description": "hapi-webpack-middleware is a hapi.js middleware for webpack",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint --format=node_modules/eslint-formatter-pretty .",
