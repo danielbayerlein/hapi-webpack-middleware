@@ -1,5 +1,6 @@
 # hapi-webpack-middleware
 
+[![npm version](https://badge.fury.io/js/%40danielbayerlein%2Fhapi-webpack-middleware.svg)](https://badge.fury.io/js/%40danielbayerlein%2Fhapi-webpack-middleware)
 [![Build Status](https://travis-ci.org/danielbayerlein/hapi-webpack-middleware.svg?branch=master)](https://travis-ci.org/danielbayerlein/hapi-webpack-middleware)
 
 **hapi-webpack-middleware** is a [webpack](https://github.com/webpack/webpack) middleware for [hapi.js](https://github.com/hapijs/hapi).
