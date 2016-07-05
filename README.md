@@ -5,7 +5,7 @@
 
 **hapi-webpack-middleware** is a [webpack](https://github.com/webpack/webpack) middleware for [hapi.js](https://github.com/hapijs/hapi).
 
-:warning: This middleware is automatically disabled in production!
+:warning: Use this middleware only in development!
 
 Full support for:
 
