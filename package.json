@@ -29,7 +29,7 @@
   "homepage": "https://github.com/danielbayerlein/hapi-webpack-middleware#readme",
   "devDependencies": {
     "eslint": "^3.9.0",
-    "eslint-config-airbnb-base": "^9.0.0",
+    "eslint-config-airbnb-base": "^10.0.1",
     "eslint-formatter-pretty": "^1.1.0",
     "eslint-plugin-import": "^2.0.1",
     "greenkeeper-postpublish": "^1.0.1"
