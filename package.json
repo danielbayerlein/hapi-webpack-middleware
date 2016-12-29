@@ -5,8 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint --format=node_modules/eslint-formatter-pretty .",
-    "test": "npm run lint",
-    "postpublish": "greenkeeper-postpublish"
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -31,8 +30,7 @@
     "eslint": "^3.12.2",
     "eslint-config-airbnb-base": "^11.0.0",
     "eslint-formatter-pretty": "^1.1.0",
-    "eslint-plugin-import": "^2.2.0",
-    "greenkeeper-postpublish": "^1.0.1"
+    "eslint-plugin-import": "^2.2.0"
   },
   "peerDependencies": {
     "webpack": "1 || ^2.1.0-beta",
