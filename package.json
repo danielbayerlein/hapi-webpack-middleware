@@ -35,6 +35,6 @@
   "peerDependencies": {
     "webpack": "1 || ^2.1.0-beta",
     "webpack-dev-middleware": "^1.0.0",
-    "webpack-hot-middleware": "^2.0.0"
+    "webpack-hot-middleware": "^2.13.1"
   }
 }
