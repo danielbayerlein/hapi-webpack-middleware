@@ -16,7 +16,7 @@ Full support for:
 ## Installation
 
 ```bash
-$ npm install webpack webpack-dev-middleware webpack-hot-middleware @danielbayerlein/hapi-webpack-middleware --save-dev
+npm install webpack webpack-dev-middleware webpack-hot-middleware @danielbayerlein/hapi-webpack-middleware --save-dev
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ server.register({
 }, (err) => {
 
   if (err) {
-      throw err;
+    throw err;
   }
 });
 ```
@@ -41,7 +41,7 @@ server.register({
 
 * [webpack](https://github.com/webpack/webpack-dev-middleware#usage)
 * [webpackDev](https://github.com/webpack/webpack-dev-middleware#usage)
-* [webpackHot](https://github.com/glenjamin/webpack-hot-middleware/blob/072b1475e45cc94df4cab99907c538283ce1fafa/middleware.js#L8-L10)
+* [webpackHot](https://github.com/glenjamin/webpack-hot-middleware/blob/master/middleware.js#L8-L10)
 
 ## Contributing
 
