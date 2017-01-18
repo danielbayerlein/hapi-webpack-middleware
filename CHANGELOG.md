@@ -3,6 +3,7 @@
 ## ?.?.? (????-??-??)
 
 * Don't skip in production, see #2.
+* Add support for webpack 2.
 
 ## 1.0.1 (2016-06-24)
 
