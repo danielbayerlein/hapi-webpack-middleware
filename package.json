@@ -33,7 +33,7 @@
     "eslint-plugin-import": "^2.3.0"
   },
   "peerDependencies": {
-    "webpack": "1 || 2",
+    "webpack": "1 || 2 || 3",
     "webpack-dev-middleware": "^1.0.0",
     "webpack-hot-middleware": "^2.0.0"
   },
