@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/danielbayerlein/hapi-webpack-middleware#readme",
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^4.1.0",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-formatter-pretty": "^1.1.0",
     "eslint-plugin-import": "^2.6.0"
