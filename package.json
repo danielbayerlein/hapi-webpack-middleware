@@ -4,7 +4,7 @@
   "description": "hapi-webpack-middleware is a webpack middleware for hapi.js",
   "main": "lib/index.js",
   "scripts": {
-    "lint": "eslint --format=node_modules/eslint-formatter-pretty .",
+    "lint": "standard --verbose | snazzy",
     "test": "npm run lint"
   },
   "repository": {
@@ -27,10 +27,8 @@
   },
   "homepage": "https://github.com/danielbayerlein/hapi-webpack-middleware#readme",
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-config-airbnb-base": "^11.2.0",
-    "eslint-formatter-pretty": "^1.1.0",
-    "eslint-plugin-import": "^2.7.0"
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.2"
   },
   "peerDependencies": {
     "webpack": "1 || 2 || 3",
