@@ -28,7 +28,7 @@
   "homepage": "https://github.com/danielbayerlein/hapi-webpack-middleware#readme",
   "devDependencies": {
     "snazzy": "^7.0.0",
-    "standard": "^10.0.3"
+    "standard": "^11.0.0"
   },
   "peerDependencies": {
     "webpack": "1 || 2 || 3",
