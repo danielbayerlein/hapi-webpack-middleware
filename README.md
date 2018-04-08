@@ -11,9 +11,9 @@
 
 Full support for:
 
-* [webpack](https://webpack.github.io/docs/configuration.html#configuration-object-content)
+* [webpack](https://webpack.js.org)
 * [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware)
-* [webpack-hot-middleware](https://github.com/glenjamin/webpack-hot-middleware)
+* [webpack-hot-middleware](https://github.com/webpack-contrib/webpack-hot-middleware)
 
 ## Installation
 
