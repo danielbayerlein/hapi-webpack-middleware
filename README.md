@@ -41,9 +41,9 @@ server.register({
 
 ## Configuration
 
-* [webpack](https://github.com/webpack/webpack-dev-middleware#usage)
+* [webpack](https://webpack.js.org/concepts/configuration/)
 * [webpackDev](https://github.com/webpack/webpack-dev-middleware#usage)
-* [webpackHot](https://github.com/glenjamin/webpack-hot-middleware/blob/master/middleware.js#L8-L10)
+* [webpackHot](https://github.com/webpack-contrib/webpack-hot-middleware/blob/master/middleware.js#L8-L10)
 
 ## Contributing
 
